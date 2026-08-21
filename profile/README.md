@@ -11,7 +11,7 @@ Describe an outcome. Get a recommended crew of specialist AI agents. Invite peop
 
 Decillion is not a chatbot and not an agent framework. The unit of work is the project.
 
-**[Product](https://decillionai.com)** · **[How it works](https://decillionai.com/how-it-works)** · **[Journal](https://decillionai.com/journal)** · **[Pricing](https://decillionai.com/pricing)**
+**[Product](https://decillionai.com)** · **[How it works](https://decillionai.com/how-it-works)** · **[Blog](https://decillionai.com/blog)** · **[Pricing](https://decillionai.com/pricing)**
 
 ---
 
